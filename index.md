@@ -1,4 +1,4 @@
-## Welcome to Infinte Control
+## Welcome to Infinite Control
 
 Infinite Control is a mobile app for iPhone. It works with the mobile flight simulator Infinite Flight.
 
