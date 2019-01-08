@@ -1,8 +1,8 @@
-## Welcome to Infinite Control
+## Welcome to Positive Control
 
-Infinite Control is a mobile app for iPhone. It works with the mobile flight simulator Infinite Flight.
+Positive Control is a mobile app for iPhone. It works with the mobile flight simulator Infinite Flight.
 
-Infinite Control allows users to use their phone as a joystick to control aircraft in Infinite Flight.
+Positive Control allows users to use their phone as a joystick to control aircraft in Infinite Flight.
 
 ### Privacy Policy
-https://www.freeprivacypolicy.com/privacy/view/b070842899d6f047e879d70f9d767a99
+https://www.freeprivacypolicy.com/privacy/view/12858fd4457a45494ab181d78737654b
