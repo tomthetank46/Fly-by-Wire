@@ -1,3 +1,8 @@
+- [Home](https://tomthetank46.github.io/Fly-by-Wire/index.md)
+- [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact.md)
+- [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy.md)
+- [Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses.md)
+
 # Welcome to Fly-by-Wire
 
 ## What is it?
@@ -33,5 +38,5 @@ Our leading developer is a glider pilot, through-and-through. Tilting a device i
 Download and install the app. Connect to the same WiFi network as your sim. Once Fly-by-Wire displays as connected, move your device and press the buttons to get familiar. If you're using the yoke, hold the device in front of you in the traditional way. If you're using the joystick, hold the device in your right hand, vertically, with the screen facing left and the volume buttons pointed forward. Tilt around to get a feel for it!
 
 ## Legal
-[Privacy Policy](https://www.freeprivacypolicy.com/privacy/view/12858fd4457a45494ab181d78737654b)
-[Open Source Licenses]()
+[Privacy Policy](https://tomthetank46.github.io/Fly-by-Wire/privacy.md)
+[Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses.md)
