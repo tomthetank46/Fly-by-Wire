@@ -4,7 +4,7 @@
 - [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
 - [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
 
-## What is it?
+## Mobile Flight Controls
 
 Mobile flight simulation is a revolution - the world in the palm of your hand. Fly-by-Wire is a mobile yoke and joystick to add that extra bit of realism and grease that next landing.
 
