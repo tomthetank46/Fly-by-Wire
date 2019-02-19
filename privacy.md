@@ -1,9 +1,10 @@
 # Privacy
 
 - [Home](https://tomthetank46.github.io/Fly-by-Wire/index)
-- [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
+- [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
 - **[Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)**
 - [Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+- [Disclaimer](https://tomthetank46.github.io/Fly-by-Wire/disclaimer)
 
 ## Privacy Policy
 
