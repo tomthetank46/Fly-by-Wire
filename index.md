@@ -2,8 +2,7 @@
 
 - **[Home](https://tomthetank46.github.io/Fly-by-Wire/index)**
 - [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
-- [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)
-- [Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+- [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
 
 ## What is it?
 
@@ -33,7 +32,3 @@ The Joystick setting is more simplistic, but it allows for an unprecedented vari
 
 ## How do I use it?
 Download and install the app. Connect to the same WiFi network as your sim. Once Fly-by-Wire displays as connected, move your device and press the buttons to get familiar. If you're using the yoke, hold the device in front of you in the traditional way. If you're using the joystick, hold the device in your right hand, vertically, with the screen facing left and the volume buttons pointed forward. Tilt around to get a feel for it!
-
-## Legal
-[Privacy Policy](https://tomthetank46.github.io/Fly-by-Wire/privacy)
-[Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
