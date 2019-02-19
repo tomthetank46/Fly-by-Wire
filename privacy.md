@@ -1,9 +1,11 @@
-# Privacy Policy
+# Privacy
 
 - [Home](https://tomthetank46.github.io/Fly-by-Wire/index)
 - [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
 - **[Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)**
-- [Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+- [Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+
+## Privacy Policy
 
 Effective date: February 19, 2019
 
