@@ -1,6 +1,15 @@
 # Terms and conditions
 
-//nav
+- [Home](https://tomthetank46.github.io/Fly-by-Wire/index)
+- [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
+- [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
+
+
+
+- [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)
+- **[Terms and Conditions](https://tomthetank46.github.io/Fly-by-Wire/terms)**
+- [Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+- [Disclaimer](https://tomthetank46.github.io/Fly-by-Wire/disclaimer)
 
 # Terms and conditions
 These terms and conditions ("Terms", "Agreement") are an agreement between Mobile Application Developer ("Mobile Application Developer", "us", "we" or "our") and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the Fly-by-Wire mobile application and any of its products or services (collectively, "Mobile Application" or "Services").
