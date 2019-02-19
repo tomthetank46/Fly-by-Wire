@@ -1,9 +1,9 @@
-- [Home](https://tomthetank46.github.io/Fly-by-Wire/index.md)
+# Welcome to Fly-by-Wire
+
+- **[Home](https://tomthetank46.github.io/Fly-by-Wire/index.md)**
 - [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact.md)
 - [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy.md)
 - [Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses.md)
-
-# Welcome to Fly-by-Wire
 
 ## What is it?
 
