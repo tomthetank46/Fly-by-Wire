@@ -5,7 +5,7 @@
 - [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
 - [Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)
 
-
+***
 
 - [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)
 - [Terms and Conditions](https://tomthetank46.github.io/Fly-by-Wire/terms)
