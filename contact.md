@@ -2,8 +2,7 @@
 
 - [Home](https://tomthetank46.github.io/Fly-by-Wire/index)
 - **[Contact](https://tomthetank46.github.io/Fly-by-Wire/contact)**
-- [Privacy](https://tomthetank46.github.io/Fly-by-Wire/privacy)
-- [Open Source Licenses](https://tomthetank46.github.io/Fly-by-Wire/licenses)
+- [Legal](https://tomthetank46.github.io/Fly-by-Wire/legal)
 
 ## Email
 contact.flybywire@gmail.com
