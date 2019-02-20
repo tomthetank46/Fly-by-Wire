@@ -20,8 +20,13 @@
 - Touch and drag on the camera to move the view. Tap once to cycle views, tap and hold to toggle the HUD.
 - Have fun!
 
+![Yoke](https://github.com/tomthetank46/Fly-by-Wire/blob/master/fbwYoke.jpg "How to hold Yoke Position")
+
+
 ### Joystick:
 - Hold the device vertically in your right hand, with the volume buttons facing away from you.
 - Move the device to get a feel for the accelerometer pitch and roll.
 - Touch and drag on the camera to move the view. Tap once to cycle views, tap and hold to toggle the HUD.
 - Have fun!
+
+![Joystick](https://github.com/tomthetank46/Fly-by-Wire/blob/master/fbwJoystick.jpg "How to hold Joystick Position")
