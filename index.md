@@ -41,4 +41,4 @@ The Joystick setting is more simplistic, but it allows for an unprecedented vari
 Fly-by-Wire is currently only compatible with iPhone.
 
 ## Pricing
-Fly-by-Wire is priced at $1.99 and will be available on the App Store.
+Fly-by-Wire is priced at $1.99 and will be available on the App Store. This price is subject to change and may be changed at any time.
