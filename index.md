@@ -21,7 +21,7 @@ The Yoke setting features all the commands you could need to safely fly your pla
 * Spoilers
 * Lights
 * Short-press to cycle camera and long-press to cycle the HUD
-* Camera movement
+* Cockpit camera movement
 * On-screen rudder
 * Gear
 * Brakes
@@ -35,7 +35,7 @@ The Joystick setting is more simplistic, but it allows for an unprecedented vari
 * Accelerometer-based pitch, roll, and yaw
 * Brakes
 * Short-press to cycle camera and long-press to cycle the HUD
-* Camera movement
+* Cockpit camera movement
 * Stick-shaker stall-warning
 * Automatic autopilot activation in case of a disconnect
 
