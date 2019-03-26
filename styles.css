@@ -29,7 +29,7 @@ nav a {
 	font-size: 30px;
 }
 
-nav .is-current {
+.is-current {
   background-color: #aaaaaa;
   color: #1f2124;
 }
