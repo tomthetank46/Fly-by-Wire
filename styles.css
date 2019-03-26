@@ -2,13 +2,18 @@
 	margin: 0 auto;
 	width: 80%;
 	max-width: 960px;
-	background-color: #1f2124;
 }
 
 * {
   color: #aaaaaa;
+  background-color: #1f2124;
 }
 
 h1, h2 {
   color: #1dbb51;
+}
+
+nav .is-current {
+  background-color: #1dbb51;
+  color: #aaaaaa;
 }
