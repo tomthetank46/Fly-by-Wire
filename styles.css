@@ -5,8 +5,8 @@
 }
 
 * {
-  color: #1f2124;
-  background-color: #1dbb51;
+  color: #aaaaaa;
+  background-color: #1f2124;
   font-family: Tahoma, Arial, Helvetica, sans-serif;
 }
 
@@ -30,6 +30,6 @@ nav a {
 }
 
 nav .is-current {
-  background-color: #1f2124;
-  color: #aaaaaa;
+  background-color: #aaaaaa;
+  color: #1f2124;
 }
