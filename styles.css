@@ -1,0 +1,14 @@
+.container{
+	margin: 0 auto;
+	width: 80%;
+	max-width: 960px;
+	background-color: #1F2124;
+}
+
+* {
+  color: #aaaaaa;
+}
+
+h1, h2 {
+  color: #1dbb51;
+}
